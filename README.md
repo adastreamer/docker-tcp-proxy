@@ -2,7 +2,7 @@
 
 [![Docker Repository on Quay.io](https://quay.io/repository/aptible/tcp-proxy/status)](https://quay.io/repository/aptible/tcp-proxy)
 
-Memcached on Docker, with SASL support
+Simple TCP-only proxy, built on socat and Docker. Can be used, for example, to expose (private) Aptible databases as (public) apps.
 
 ## Installation and Usage
 
